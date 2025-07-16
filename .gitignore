@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.bak
+*.tmp
+*.swp
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+.env
+.venv/
+venv/
+ENV/
+env/
+
+*.log
+
+build/
+dist/
+*.spec
