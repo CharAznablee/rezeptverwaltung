@@ -16,6 +16,8 @@ rezeptverwaltung/
     datenbank.py # Speichern und Laden der Rezepte
     gui.py # Grafische Benutzeroberfläche
     rezepte.json # Lokale Rezeptdatenbank
+    README.md # Kurze beschreibung des Projekts
+    LICENSE # Lizenzierung
     
 ## Zusatzfunktionen
 
@@ -26,6 +28,18 @@ Beim Anklicken eines vorhandenen Rezepts erscheinen die Details auf der rechten 
 
 Dieses Projekt dient als Übung zur Projektstrukturierung, zur Dateiverwaltung und für erste GUI-Erfahrungen.  
 Außerdem soll es helfen, sauberen Code zu schreiben und vorhandene Python-Skills zu verbessern.
+
+## Anforderungen
+
+- Python 3.x
+- PyQt5
+
+## Starten
+
+```bash
+python main.py
+
+oder die main.py über ein IDE/Editor starten und ausführen
 
 ## ℹInfo
 
