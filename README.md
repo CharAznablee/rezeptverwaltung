@@ -34,6 +34,13 @@ Außerdem soll es helfen, sauberen Code zu schreiben und vorhandene Python-Skill
 - Python 3.x
 - PyQt5
 
+## Info
+
+Die Nutzung und Weiterverarbeitung dieses Tools ist ausdrücklich erlaubt – auch die Umwandlung in eine `.exe`-Datei.  
+Ich bitte lediglich darum, bei Weitergabe oder Veröffentlichung den ursprünglichen Autor zu nennen.
+
+**Entwickelt von Rahat Mohammed (aka *Char Aznablee*)**
+
 ## Starten
 
 ```bash
@@ -41,9 +48,3 @@ python main.py
 
 oder die main.py über ein IDE/Editor starten und ausführen
 
-## ℹInfo
-
-Die Nutzung und Weiterverarbeitung dieses Tools ist ausdrücklich erlaubt – auch die Umwandlung in eine `.exe`-Datei.  
-Ich bitte lediglich darum, bei Weitergabe oder Veröffentlichung den ursprünglichen Autor zu nennen.
-
-**Entwickelt von Rahat Mohammed (aka *Char Aznablee*)**
