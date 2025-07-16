@@ -42,9 +42,9 @@ Ich bitte lediglich darum, bei Weitergabe oder Veröffentlichung den ursprüngli
 **Entwickelt von Rahat Mohammed (aka *Char Aznablee*)**
 
 ## Starten
+Um das Programm auszuführen, werden Python und PyQt5 auf dem Computer benötigt.
+Sobald alles eingerichtet ist, kann die Datei main.py geöffnet und ausgeführt werden.
+Daraufhin öffnet sich ein Fenster, in dem man seine Rezepte bequem über eine grafische Benutzeroberfläche (GUI) verwalten kann.
 
-```bash
-python main.py
 
-oder die main.py über ein IDE/Editor starten und ausführen
 
